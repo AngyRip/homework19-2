@@ -5,4 +5,4 @@ if(year % 100 === 0 ? year % 400 === 0 : year % 4 === 0){
 }else {
     alert(`Невысокосный год`)
 }
-console.log 
+console.log;
